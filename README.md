@@ -66,7 +66,7 @@
 
 3D Printer on Demand provides an instant quote service for 3D printed parts. Users can upload STL files and receive a flat per-part price without login. The service offers FDM parts made in the USA, handling orders from a single sample up to 10,000 units, with typical shipping in 3 to 5 business days. It targets rapid prototyping and low‑volume manufacturing, delivering quick turnaround and transparent pricing for developers and makers.
 
-**Areas:** Company · 3D Printing · Instant Quote · Manufacturing · API
+**Areas:** Company · 3D Printing · Instant Quote · Manufacturing
 
 ## 3D Printer on Demand on APIs.io
 
@@ -84,13 +84,13 @@ Each property below is a page on APIs.io carrying the machine-readable artifact 
 
 Authentication, trust centre, and vulnerability disclosure.
 
-- [3Dprinterondemand Com Domain Security](https://apis.io/security/3dprinterondemand-com/3dprinterondemand-com-domain-security/)
+- [3D Printer on Demand Domain Security](https://apis.io/security/3dprinterondemand-com/3dprinterondemand-com-domain-security/)
 
 #### Plans and pricing (1)
 
 Published plans, tiers and prices.
 
-- [3Dprinterondemand Com Plans Pricing](https://apis.io/plans/3dprinterondemand-com/3dprinterondemand-com-plans-pricing/)
+- [3D Printer on Demand Plans Pricing](https://apis.io/plans/3dprinterondemand-com/3dprinterondemand-com-plans-pricing/)
 
 ## Where to find this API
 
@@ -104,18 +104,18 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-**Kin Score 18.7** — emerging · rubric 0.25.0 · scored 2026-10-31
+**Kin Score 17.7** — emerging · rubric 0.28.1 · scored 2026-11-21
 
 | Facet | Score |
 |---|---|
-| Discoverability | 57.1 |
+| Discoverability | 55.4 |
 | Contract quality | 0.0 |
 | Contract governance | 0.0 |
 | Operational transparency | 0.0 |
 | Developer ergonomics | 2.4 |
-| Access clarity | 63.7 |
+| Access clarity | 63.8 |
 
-**Agent readiness 3.1** — human-only
+**Agent readiness 3.7** — human-only
 
 | Agent-readiness dimension | Result |
 |---|---|
@@ -140,8 +140,12 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Agentic Commerce | — |
 | Pagination Ratio | na |
 | Operation Distinctiveness | na |
+| MCP Tool Quality | na |
+| Onboarding Descriptor | — |
+| Dns Aid Index | na |
+| Markdown Negotiation | yes |
 
-**Regulatory alignment 13.7** — Horizontal (data, software, accessibility, platform)
+**Regulatory alignment 7.8** — Horizontal (data, software, accessibility, platform)
 
 The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/3dprinterondemand-com/](https://apis.io/providers/3dprinterondemand-com/).
 
